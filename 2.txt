@@ -1,0 +1,40 @@
+RubyGems Environment:
+  - RUBYGEMS VERSION: 2.4.5
+  - RUBY VERSION: 2.2.0 (2014-12-25 patchlevel 0) [x86_64-linux]
+  - INSTALLATION DIRECTORY: /home/rails/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0
+  - RUBY EXECUTABLE: /home/rails/.rbenv/versions/2.2.0/bin/ruby
+  - EXECUTABLE DIRECTORY: /home/rails/.rbenv/versions/2.2.0/bin
+  - SPEC CACHE DIRECTORY: /home/rails/.gem/specs
+  - SYSTEM CONFIGURATION DIRECTORY: /home/rails/.rbenv/versions/2.2.0/etc
+  - RUBYGEMS PLATFORMS:
+    - ruby
+    - x86_64-linux
+  - GEM PATHS:
+     - /home/rails/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0
+     - /home/rails/.gem/ruby/2.2.0
+  - GEM CONFIGURATION:
+     - :update_sources => true
+     - :verbose => true
+     - :backtrace => false
+     - :bulk_threshold => 1000
+     - "gem" => "--no-ri --no-rdoc"
+  - REMOTE SOURCES:
+     - https://rubygems.org/
+  - SHELL PATH:
+     - /home/rails/.rbenv/versions/2.2.0/bin
+     - /home/rails/.rbenv/libexec
+     - /home/rails/.rbenv/plugins/ruby-build/bin
+     - /home/rails/.rbenv/plugins/ruby-build/bin
+     - /home/rails/.rbenv/shims
+     - /home/rails/.rbenv/bin
+     - /home/rails/.rbenv/plugins/ruby-build/bin
+     - /home/rails/.rbenv/shims
+     - /home/rails/.rbenv/bin
+     - /usr/local/sbin
+     - /usr/local/bin
+     - /usr/sbin
+     - /usr/bin
+     - /sbin
+     - /bin
+     - /usr/games
+     - /usr/local/games
