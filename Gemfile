@@ -47,5 +47,7 @@ group :development, :test do
 end
 
 # ----- usr my gems
-
+group :production do
+  gem 'thin'
+end
 ruby '2.2.0'
